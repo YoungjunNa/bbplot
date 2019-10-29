@@ -10,7 +10,7 @@
 #' bbc_style()
 
 bbc_style <- function() {
-  font <- "Helvetica"
+  font <- "NanumGothic"
 
   ggplot2::theme(
 
